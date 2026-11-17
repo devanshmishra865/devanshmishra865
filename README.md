@@ -1,50 +1,56 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/terminal.svg" width="100%" alt="Devansh Mishra — Java Full-Stack and AI Developer. Build, debug, contribute." />
+</p>
 
-# Devansh Mishra
-### Java Full-Stack & AI Developer
+<p align="center"><strong>Curious about how things work. Even more curious about making them better.</strong></p>
+<p align="center"><a href="https://github.com/devanshmishra865?tab=repositories">Explore the code</a> · <a href="https://github.com/devanshmishra865?tab=stars">Things that caught my attention</a></p>
 
-Java · Spring Boot · React · Python · AI Agents
+## `whoami`
 
-**Seeking internship and entry-level opportunities in software development.**
+I'm **Devansh**, a Java full-stack and AI developer drawn to backend systems, useful interfaces, and agents that do more than just chat.
 
-[Explore my projects](https://github.com/devanshmishra865?tab=repositories)
+I want to contribute to **open source**: understand the code, ask better questions, and turn small fixes into something useful. Java, Spring Boot, React, and Python are the areas I'm focusing on.
 
-</div>
+## `/dev/interests`
+
+`Java` `Spring Boot` `React` `Python` `AI agents` `Open source`
+
+- **Systems:** following a request from the UI to the backend and back.
+- **AI:** exploring how models, tools, and agent workflows fit together.
+- **Open source:** finding projects where I can learn the codebase and contribute thoughtfully.
+
+## `ls projects/`
+
+| Project | What's inside |
+| :--- | :--- |
+| [University Club Management System](https://github.com/devanshmishra865/university-club-management-system) | A planned Spring Boot + React application for clubs, events, registrations, and attendance. **Planning stage.** |
+| [Agentic Chatbot](https://github.com/devanshmishra865/Agentic-Chatbot) | A fork exploring LangGraph, Groq, Streamlit, and web-assisted conversations. |
+| [DeleteMe Agent](https://github.com/devanshmishra865/DeleteMe-Agent--DPDPA-Data-Eraser) | A fork exploring Python multi-agent workflows and MCP for data-erasure requests. |
+
+<sub>The two AI repositories are forks of projects by <a href="https://github.com/pvashisth-07">Pranav Vashisth</a>; original authorship stays with the upstream projects.</sub>
+
+## `git checkout -b contribute`
+
+I'm interested in **Java/Spring Boot projects, developer tools, and AI applications**. Small bug fixes, clearer docs, and well-scoped features are where I'd like to start.
+
+Have a project in that space? I'd enjoy talking code and finding a useful way to help.
+
+<details>
+<summary><strong>🧪 Open the developer console</strong></summary>
+
+```java
+// The loop I'd like to keep running.
+while (curious) {
+    readTheCode();
+    askBetterQuestions();
+    buildSomethingUseful();
+    shareWhatILearn();
+}
+```
+
+<sub>Still investigating why the bug disappears when the debugger is attached.</sub>
+
+</details>
 
 ---
-
-## About me
-
-I'm focused on Java full-stack development and AI applications, with interests in web interfaces, backend services, and agent-based workflows. This profile brings together my own project plans and open-source repositories I'm exploring.
-
-## Development focus
-
-| Area | Focus |
-| :--- | :--- |
-| Backend | Java and Spring Boot |
-| Frontend | React and web application interfaces |
-| AI applications | Python, conversational AI, and agent workflows |
-| Project interests | Campus tools and practical automation |
-
-## Project spotlight
-
-### [University Club Management System](https://github.com/devanshmishra865/university-club-management-system)
-
-A planned React and Spring Boot application for university clubs, events, registrations, and attendance.
-
-**Status:** Project planning. Application code and a live demo are not yet published in this repository.
-
-## Open-source exploration
-
-These repositories are **forks**, with credit to their original creator, [Pranav Vashisth](https://github.com/pvashisth-07).
-
-| Repository | What it explores |
-| :--- | :--- |
-| [Agentic Chatbot](https://github.com/devanshmishra865/Agentic-Chatbot) | Conversational AI, web-assisted chat, and AI news summaries using LangGraph, Groq, and Streamlit. |
-| [DeleteMe Agent](https://github.com/devanshmishra865/DeleteMe-Agent--DPDPA-Data-Eraser) | Multi-agent workflows for drafting and tracking data-erasure requests, using Python, Fetch.ai uAgents, and MCP. |
-
-## Opportunities
-
-I'm interested in **Java full-stack development** and **AI application development** roles, including internships and entry-level positions.
-
-Explore the repositories above to see the current scope and status of each project.
+<p align="center"><code>learn → build → debug → share → repeat</code></p>
