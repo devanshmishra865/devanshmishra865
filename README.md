@@ -28,8 +28,6 @@ I want to contribute to **open source**: understand the code, ask better questio
 | [Agentic Chatbot](https://github.com/devanshmishra865/Agentic-Chatbot) | A fork exploring LangGraph, Groq, Streamlit, and web-assisted conversations. |
 | [DeleteMe Agent](https://github.com/devanshmishra865/DeleteMe-Agent--DPDPA-Data-Eraser) | A fork exploring Python multi-agent workflows and MCP for data-erasure requests. |
 
-<sub>The two AI repositories are forks of projects by <a href="https://github.com/pvashisth-07">Pranav Vashisth</a>; original authorship stays with the upstream projects.</sub>
-
 ## `git checkout -b contribute`
 
 I'm interested in **Java/Spring Boot projects, developer tools, and AI applications**. Small bug fixes, clearer docs, and well-scoped features are where I'd like to start.
