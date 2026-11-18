@@ -23,6 +23,7 @@ I want to contribute to **open source**: understand the code, ask better questio
 
 | Project | What's inside |
 | :--- | :--- |
+| [Real-Time Chat](https://github.com/devanshmishra865/realTimeChat) | Java + Spring Boot chat with WebSocket/STOMP messaging, MySQL message storage, and a responsive Thymeleaf interface. |
 | [University Club Management System](https://github.com/devanshmishra865/university-club-management-system) | A planned Spring Boot + React application for clubs, events, registrations, and attendance. **Planning stage.** |
 | [Agentic Chatbot](https://github.com/devanshmishra865/Agentic-Chatbot) | A fork exploring LangGraph, Groq, Streamlit, and web-assisted conversations. |
 | [DeleteMe Agent](https://github.com/devanshmishra865/DeleteMe-Agent--DPDPA-Data-Eraser) | A fork exploring Python multi-agent workflows and MCP for data-erasure requests. |
