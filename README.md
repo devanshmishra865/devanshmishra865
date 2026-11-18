@@ -4,6 +4,7 @@
 
 <p align="center"><strong>Curious about how things work. Even more curious about making them better.</strong></p>
 <p align="center"><a href="https://github.com/devanshmishra865?tab=repositories">Explore the code</a> · <a href="https://github.com/devanshmishra865?tab=stars">Things that caught my attention</a></p>
+<p align="center"><a href="mailto:devanshmishra865@gmail.com">Gmail</a> · <a href="https://www.linkedin.com/in/devansh-mishra-15b466318/">LinkedIn</a></p>
 
 ## `whoami`
 
